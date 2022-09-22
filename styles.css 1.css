@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+  }
+  ul.A { 
+   list-style-type: square ;
+    color:white ;
+  }
+  ul.B {
+   list-style-type:square ;
+    color:white ;
+  }
+  p { 
+
+    font-size: 12px;
+    color: lightgrey
+  }
+
+    div {
+        height: 100px;
+        width: 100px;
+        background-color: black;
+      }
+   
+  p.dotted {outline-style: dotted;}
+ 
+  .center { 
+    text-align: center;
+    color: white;
+  }
+  
